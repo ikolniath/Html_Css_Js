@@ -1,0 +1,48 @@
+
+
+table {
+
+    border-collapse: collapse;
+    color: green;
+    text-align: center;
+    
+}
+
+td, th {
+
+    border: 1px solid grey;
+    padding: 5px;
+
+    
+}
+
+#titulo {
+
+    color: gray;
+}
+
+#subtitulo {
+
+    color: blue;
+    
+}
+
+.especiala {
+
+    color: darkslateblue;
+}
+
+.especial {
+
+    color:darkorange;
+}
+
+.especiale {
+
+    color:darkred;
+}
+
+#adicional {
+
+    color: green;
+}
